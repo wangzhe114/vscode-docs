@@ -1,92 +1,83 @@
----
-ContentId: f29747b9-0f4f-4f62-b0a7-037ffc49d972
-DateApproved: 03/05/2025
-MetaDescription: Overview of Visual Studio Code's introductory videos.
-MetaSocialImage: ../introvideos/images/opengraph/introvideos-social.png
----
-# Introductory Videos
 
-Start your journey using Visual Studio Code with this set of introductory videos! These videos are designed to give you an overview of VS Code's various features and quickly get you familiar with them.
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>生活用品冷知识</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .item {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-left: 5px solid #4CAF50;
+            background-color: #f9f9f9;
+        }
+        .item h2 {
+            margin-top: 0;
+            color: #4CAF50;
+        }
+        .item p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
 
-If you prefer going through a step-by-step guide to discover the key features, check out the [VS Code tutorial](/docs/getstarted/getting-started.md).
+<div class="container">
+    <h1>日常生活用品的冷知识</h1>
 
->**Linux users**: Make sure you have the correct multimedia codecs installed for your Linux distribution. For example, on Ubuntu, you may need to install `ubuntu-restricted-extras` to get the necessary codecs to play the videos.
+    <div class="item">
+        <h2>牙刷</h2>
+        <p>世界上第一把牙刷是由动物毛制成的。古代中国的牙刷采用猪鬃毛，而现代牙刷则使用尼龙毛，因其更耐用且易于清洁。</p>
+    </div>
 
-<ul class="video-list">
-	<li class="video">
-            <a href="/docs/introvideos/basics">
-			<img src="/assets/docs/getstarted/introvideos/getting-started.png" alt aria-hidden="true" class="thumb"/>
-			<div class="info">
-                <h2 class="title faux-h3">Getting Started</h2>
-				<p class="description">Set up and learn the basics of Visual Studio Code.</p>
-				<span class="duration"><span class="sr-only">Duration </span>7<span aria-hidden="true"> min</span><span class="sr-only"> minutes</span></span>
-			</div>
-		</a>
-	</li>
-	<li class="video">
-		<a href="/docs/introvideos/codeediting">
-			<img src="/assets/docs/getstarted/introvideos/code-editing.png" alt aria-hidden="true" class="thumb"/>
-			<div class="info">
-				<h2 class="title faux-h3">Code Editing</h2>
-				<p class="description">Learn how to edit and run code in VS Code.</p>
-				<span class="duration"><span class="sr-only">Duration </span>3<span aria-hidden="true"> min</span><span class="sr-only"> minutes</span></span>
-			</div>
-		</a>
-	</li>
-	<li class="video">
-		<a href="/docs/introvideos/productivity">
-			<img src="/assets/docs/getstarted/introvideos/productivity-tips.png" alt aria-hidden="true" class="thumb"/>
-			<div class="info">
-				<h2 class="title faux-h3">Productivity Tips</h2>
-				<p class="description">Become a VS Code power user with these productivity tips.</p>
-				<span class="duration"><span class="sr-only">Duration </span>4<span aria-hidden="true"> min</span><span class="sr-only"> minutes</span></span>
-			</div>
-		</a>
-    </li>
-	<li class="video">
-		<a href="/docs/introvideos/configure">
-			<img src="/assets/docs/getstarted/introvideos/personalize-themes.png" alt aria-hidden="true" class="thumb"/>
-			<div class="info">
-				<h2 class="title faux-h3">Personalize</h2>
-				<p class="description">Personalize VS Code to make it yours with themes.</p>
-				<span class="duration"><span class="sr-only">Duration </span>2<span aria-hidden="true"> min</span><span class="sr-only"> minutes</span></span>
-			</div>
-		</a>
-	</li>
-	<li class="video">
-		<a href="/docs/introvideos/extend">
-			<img src="/assets/docs/getstarted/introvideos/extensions.png" alt aria-hidden="true" class="thumb"/>
-			<div class="info">
-				<h2 class="title faux-h3">Extensions</h2>
-				<p class="description">Add features, themes, and more to VS Code with extensions!</p>
-				<span class="duration"><span class="sr-only">Duration </span>4<span aria-hidden="true"> min</span><span class="sr-only"> minutes</span></span>
-			</div>
-		</a>
-	</li>
-	<li class="video">
-		<a href="/docs/introvideos/debugging">
-			<img src="/assets/docs/getstarted/introvideos/debugging.png" alt aria-hidden="true" class="thumb"/>
-			<div class="info">
-				<h2 class="title faux-h3">Debugging</h2>
-				<p class="description">Get started with debugging in VS Code.</p>
-				<span class="duration"><span class="sr-only">Duration </span>6<span aria-hidden="true"> min</span><span class="sr-only"> minutes</span></span>
-			</div>
-		</a>
-	</li>
-	<li class="video">
-		<a href="/docs/introvideos/versioncontrol">
-			<img src="/assets/docs/getstarted/introvideos/version-control.png" alt aria-hidden="true" class="thumb"/>
-			<div class="info">
-				<h2 class="title faux-h3">Version Control</h2>
-				<p class="description">Learn how to use Git version control in VS Code.</p>
-				<span class="duration"><span class="sr-only">Duration </span>3<span aria-hidden="true"> min</span><span class="sr-only"> minutes</span></span>
-			</div>
-		</a>
-	</li>
-</ul>
+    <div class="item">
+        <h2>洗衣粉</h2>
+        <p>洗衣粉中的泡泡并不一定意味着清洁效果更好。实际上，泡泡的形成只能代表洗衣粉的配方，并不直接与去污能力相关。</p>
+    </div>
 
-## Troubleshooting
+    <div class="item">
+        <h2>纸巾</h2>
+        <p>纸巾的使用始于20世纪初。最初的纸巾是作为女性卫生产品的替代品，后来逐渐演变为我们今天熟知的多用途纸巾。</p>
+    </div>
 
-### Videos won't play on Linux
+    <div class="item">
+        <h2>铅笔</h2>
+        <p>铅笔的芯部其实并不是铅，而是由石墨和粘土混合制成的。铅笔的“硬度”是通过改变石墨和粘土的比例来实现的。</p>
+    </div>
 
-You may not have the correct multimedia codecs installed for your Linux distribution. For example, on Ubuntu, you may need to install `ubuntu-restricted-extras` to get the necessary codecs to play the videos.
+    <div class="item">
+        <h2>垃圾袋</h2>
+        <p>现代垃圾袋的发明可以追溯到1965年。它们的出现使得垃圾处理变得更加方便且卫生。</p>
+    </div>
+
+    <div class="item">
+        <h2>睡袋</h2>
+        <p>睡袋的前身是“封闭式被子”，早在19世纪末期就已经出现，用于探险和登山。</p>
+    </div>
+
+    <div class="item">
+        <h2>剃须刀</h2>
+        <p>剃须刀的历史可追溯到公元前3000年，古埃及人就已经使用青铜或石头制成的剃刀。</p>
+    </div>
+</div>
+
+</body>
+</html>
